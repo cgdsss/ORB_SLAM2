@@ -12,3 +12,7 @@
   chmod +x build_ros.sh
   ./build_ros.sh
 ```
+
+```
+  rosrun ORB_SLAM2 RGBD /home/cgd/ORB_SLAM2/Vocabulary/ORBvoc.txt /home/cgd/ORB_SLAM2/Examples/realsense_d435.yaml
+```
